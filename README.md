@@ -2,7 +2,7 @@
 <h2>Aplicativo voltado a gestão de um studio de Pilates, feito de forma exclusiva e personalizada</h2>
 
 <div align="center">
-  <img height="280" width="200" alt="Easy PT"  src="[https://user-images.githubusercontent.com/102233091/218273200-46db9bfb-916f-4011-aadd-23bb9018d800.PNG](https://wagnersoulbope.vercel.app/static/img/pilates.png)">
+  <img height="280" width="200" alt="Easy PT"  src="[https://wagnersoulbope.vercel.app/static/img/pilates.png]">
 </div>
 
 <h3>Atualizações:</h3>
