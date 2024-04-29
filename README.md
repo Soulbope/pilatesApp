@@ -8,7 +8,7 @@
 <h3>Atualizações:</h3>
 <h4>(04/2024) 1.0.0 - Lançamento do programa com as seguintes features:</h4>
 <div align="center">  
-  <img width="1373" alt="pilates" src="![Manual do Usuário pptx](https://github.com/Soulbope/pilatesApp/assets/102233091/1c045d6a-b6d4-4fd5-83f5-0d3f685c82f8)">
+  <img width="1373" alt="pilates" src="https://github.com/Soulbope/pilatesApp/assets/102233091/1c045d6a-b6d4-4fd5-83f5-0d3f685c82f8">
 </div>
    
 <h4>(02/2023) 1.1.0 - Novas Features:</h4>
