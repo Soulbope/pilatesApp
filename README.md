@@ -10,9 +10,11 @@
 <div align="center">  
   <img width="1373" alt="pilates" src="https://github.com/Soulbope/pilatesApp/assets/102233091/1c045d6a-b6d4-4fd5-83f5-0d3f685c82f8">
 </div>
-   
+
+ <! --   
 <h4>(02/2023) 1.1.0 - Novas Features:</h4>
    <p>  - Um botão <b>Template</b> para salvar as informações que preencheu, basta adicionar um nome </p>
    <p>  - Um botão <b>Abrir</b> para escolher dentre os <b>templates</b> qual você quer recuperar  </p>
    <p>  - Um botão de versionamento no final para os trazer AQUI, para que assim possam acompanhar as atualizações </p>
    <p>  - Um botão na <b>LOGO</b> que os trarão até meu perfil no <b>GITHUB</b> para conhecer melhor meu portifólio </p>
+--> 
